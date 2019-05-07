@@ -6,7 +6,9 @@
   "minimum-stability": "dev",
   "prefer-stable": true,
   "require": {
-    "php": ">=7.1"
+    "php": ">=7.1",
+    "spryker/price-product-schedule": "^0.1.0",
+    "spryker/price-product-schedule-data-import": "^0.1.0"
   },
   "extra": {
     "branch-alias": {
