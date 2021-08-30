@@ -1,19 +1,19 @@
 {
-  "name": "spryker-feature/scheduled-prices",
-  "description": "Scheduled Prices [feature]",
-  "type": "metapackage",
-  "license": "proprietary",
-  "minimum-stability": "dev",
-  "prefer-stable": true,
-  "require": {
-    "php": ">=7.3",
-    "spryker/price-product-schedule": "^2.1.0",
-    "spryker/price-product-schedule-data-import": "^0.1.0",
-    "spryker/price-product-schedule-gui": "^2.2.0"
-  },
-  "extra": {
-    "branch-alias": {
-      "dev-master": "202107.x-dev"
+    "name": "spryker-feature/scheduled-prices",
+    "description": "Scheduled Prices [feature]",
+    "type": "metapackage",
+    "license": "proprietary",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=7.3",
+        "spryker/price-product-schedule": "^2.3.0",
+        "spryker/price-product-schedule-data-import": "^0.1.0",
+        "spryker/price-product-schedule-gui": "^2.2.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "202108.x-dev"
+        }
     }
-  }
 }
