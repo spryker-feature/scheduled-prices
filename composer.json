@@ -6,14 +6,14 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=7.3",
+        "php": ">=7.4",
         "spryker/price-product-schedule": "^2.3.0",
         "spryker/price-product-schedule-data-import": "^0.1.0",
         "spryker/price-product-schedule-gui": "^2.2.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202108.x-dev"
+            "dev-master": "202204.x-dev"
         }
     }
 }
