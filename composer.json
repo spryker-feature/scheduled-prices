@@ -7,7 +7,7 @@
     "prefer-stable": true,
     "require": {
         "php": ">=7.4",
-        "spryker/price-product-schedule": "^2.3.0",
+        "spryker/price-product-schedule": "^2.5.0",
         "spryker/price-product-schedule-data-import": "^0.1.0",
         "spryker/price-product-schedule-gui": "^2.2.0"
     },
