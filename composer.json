@@ -7,13 +7,13 @@
     "prefer-stable": true,
     "require": {
         "php": ">=8.2",
-        "spryker/price-product-schedule": "^2.11.0",
+        "spryker/price-product-schedule": "^2.12.0",
         "spryker/price-product-schedule-data-import": "^0.1.0",
         "spryker/price-product-schedule-gui": "^3.0.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202510.x-dev"
+            "dev-master": "202512.x-dev"
         }
     }
 }
